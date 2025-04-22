@@ -8,7 +8,7 @@ A selection of technologies I like to work with:
 
 * **Languages:** Python, C++, SQL, HTML
 * **Web Frameworks:** Django, Flask
-* **Operating Systems:** Arch Linux
+* **Operating Systems:** Arch Linux ([AUR](https://aur.archlinux.org/packages?SeB=m&K=silvan))
 * **Hardware:** ESP32, AVR
 * **Databases:** Postgres, Redis
 
