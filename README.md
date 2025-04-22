@@ -1,5 +1,3 @@
-# 🧙
-
 ### Currently Working On
 
 * [**esp-solar-boy:**](https://github.com/gsilvan/esp-solar-boy) ESP-based solar inverter control unit
