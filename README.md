@@ -7,10 +7,10 @@
 A selection of technologies I like to work with:
 
 * **Languages:** Python, C++, SQL, HTML
-* **Web Frameworks:** Flask, HTMX
+* **Web Frameworks:** Flask, Django, HTMX
 * **Operating Systems:** Arch Linux ([AUR](https://aur.archlinux.org/packages?SeB=m&K=silvan))
 * **Hardware:** ESP32, Raspberry Pi
-* **Databases:** Postgres, Redis
+* **Databases:** PostgreSQL, SQLite, Redis
 
 ### Contact
 
